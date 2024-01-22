@@ -9,6 +9,6 @@
 <h4 style="margin:0 10px 0;">Grader</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>Artificial Intelligence</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>Algorithm</autocolor></a></li>
+  <li><autocolor>BU CAS CS 440 Artificial Intelligence - Spring 2019</autocolor></a></li>
+  <li><autocolor>BU CAS CS 330 Introduction to Analysis of Algorithms - Fall 2019</autocolor></a></li>
 </ul>

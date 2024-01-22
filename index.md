@@ -8,15 +8,12 @@ Hello! I'm Di Zhu, a second-year Ph.D. student at the Department of Computer Sci
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Software-Defined Networks :** In-Network Computing
+- **Applications of Photonic Computing in Computer Networks:**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2024]** Stay tuned for more news!
 
 {% include_relative _includes/publications.md %}
 
