@@ -1,7 +1,7 @@
 # Basic Information 
 title: Di Zhu
 position: Ph.D. Student
-affiliation: Department of Computer Science \n University of Virginia
+affiliation: Department of Computer Science University of Virginia
 email: yqx8es (at) virginia.edu
 
 # Search Engine Optimization (SEO)
@@ -38,7 +38,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
