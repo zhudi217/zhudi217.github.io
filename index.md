@@ -8,10 +8,11 @@ Hello! I'm Di Zhu, a second-year Ph.D. student at the Department of Computer Sci
 
 Before joining UVA, I worked as a Ph.D. student in Computer Science at the College of William & Mary for two years. I obtained my M.S. in Computer Science degree at Boston University and my B.Eng. in Computer Science degree at Sichuan University, China.
 
-## Research Interests
+My research focuses on In-Network Computing (INC), with a focus on developing systems to enable fast and low-latency in-network applications in modern datacenter networks.
 
-- **Software-Defined Networks :** In-Network Computing
-- **Photonic Computing in Computer Networks:** ML Inference
+<!-- ## Research Interests
+
+- **Software-Defined Networks :** In-Network Computing -->
 
 ## News
 
