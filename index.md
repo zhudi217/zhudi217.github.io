@@ -18,7 +18,7 @@ My research focuses on In-Network Computing (INC), with a focus on developing sy
 
 - **[Oct. 2024]** I received the ACM CoNEXT 2024 travel grant! Thank you for the generous gift!
 
-- **[Oct. 2024]** My paper "Automating Distributed In-network Classification with Runtime Programmability" has been accepted by the ACM CoNEXT 2024 Student Workshop!
+- **[Oct. 2024]** My paper "Automating Distributed In-network Classification with Runtime Programmability" has been accepted by the ACM CoNEXT 2024 Student Workshop! See you in Los Angeles!
 
 <!-- - **[Jan. 2024]** Stay tuned for more news! -->
 
@@ -27,3 +27,5 @@ My research focuses on In-Network Computing (INC), with a focus on developing sy
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/experiences.md %}
+
+{% include_relative _includes/students.md %}
