@@ -11,5 +11,5 @@
 <h4 style="margin:0 10px 0;">Undergraduates</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Sundaram, Geethan</autocolor></a></li>
+  <li><autocolor>Sundaram, Geethan</autocolor>s</li>
 </ul>
