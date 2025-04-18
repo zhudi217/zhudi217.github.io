@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I'm Di Zhu, a second-year Ph.D. student at the Department of Computer Science at the University of Virginia. I'm a member of the Network Mechanics Group (NMG), where I'm fortunately working with Professor [Hyojoon Kim](https://hyojoonkim.com/). 
+Hello! I'm Di Zhu, a third-year Ph.D. Candidate at the Department of Computer Science at the University of Virginia. I'm a member of the Network Mechanics Group (NMG), where I'm fortunately working with Professor [Hyojoon Kim](https://hyojoonkim.com/). 
 
 Before joining UVA, I worked as a Ph.D. student in Computer Science at the College of William & Mary for two years. I obtained my M.S. in Computer Science degree at Boston University and my B.Eng. in Computer Science degree at Sichuan University, China.
 
@@ -15,6 +15,7 @@ My research focuses on In-Network Computing (INC), with a focus on developing sy
 - **Software-Defined Networks :** In-Network Computing -->
 
 ## News
+- **[Apr. 2025]** I passed my Ph.D. qualifying examination and became a Ph.D. candidate!
 
 - **[Oct. 2024]** I received the ACM CoNEXT 2024 travel grant! Thank you for the generous gift!
 

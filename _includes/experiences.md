@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Graduate Teaching Assistant</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>CS/ECE 4457 Computer Networks - Spring 2025 - University of Virginia</autocolor></li>
   <li><autocolor>CS/ECE 7457 Advanced Computer Networks - Fall 2024 - University of Virginia</autocolor></li>
   <li><autocolor>CS/ECE 4457 Computer Networks - Spring 2024 - University of Virginia</autocolor></li>
   <li><autocolor>CS 4630 Defense Against the Dark Arts - Fall 2023 - University of Virginia</autocolor></li>
