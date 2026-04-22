@@ -12,4 +12,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>Sundaram, Geethan</autocolor>s</li>
+  <li><autocolor>Lin, Cherry</autocolor>s</li>
+  <li><autocolor>Patel, Dev</autocolor>s</li>
 </ul>
