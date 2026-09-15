@@ -14,6 +14,12 @@
   <li><a href="https://www.sciencedirect.com/journal/big-data-research"><autocolor>Big Data Research</autocolor></a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Shadow TPC</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://conferences2.sigcomm.org/co-next/2026/#!/home"><autocolor>CoNEXT 2026</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Artifact Evaluations</h4>
 
 <ul style="margin:0 0 20px;">
