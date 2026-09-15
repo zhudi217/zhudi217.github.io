@@ -1,5 +1,5 @@
 main:
-  - title: 
+  - title: Shapeshifter: Cross-Model Fast Reconfiguration for In-network ML Classification 
     authors: <strong>Di Zhu*</strong>, Jianxi Chen, Hyojoon Kim* (*Corresponding authors)
     conference_short: CoNEXT 2026
     conference:  International Conference on emerging Networking EXperiments and Technologies <strong>(CoNEXT)</strong>, 2026.
@@ -13,7 +13,7 @@ main:
     authors: <strong>Di Zhu*</strong>, Hyojoon Kim* (*Corresponding authors)
     conference_short: CoNEXT 2024 SW
     conference:  International Conference on emerging Networking EXperiments and Technologies <strong>(CoNEXT)</strong> Student Workshop, 2024.
-#     pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://dl.acm.org/doi/abs/10.1145/3694812.3699929
 #     code: https://github.com/MrGiovanni/ContinualLearning
 #     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ACORN.jpg
