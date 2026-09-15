@@ -17,7 +17,7 @@ My research focuses on In-Network Computing (INC), with a focus on developing sy
 ## News
 - **[Sep. 2026]** I will serve on the SIGCOMM 2026 Artifact Evaluation Committee.
 
-- **[Sep. 2026]** My paper "Cross-Model Fast Reconfiguration for In-network ML Classification" has been accepted to **ACM CoNEXT 2026**!
+- **[Sep. 2026]** My paper "Shapeshifter: Cross-Model Fast Reconfiguration for In-network ML Classification" has been accepted to **ACM CoNEXT 2026**!
 
 - **[May 2026]** I will serve on the CoNEXT 2026 Artifact Evaluation Committee.
 

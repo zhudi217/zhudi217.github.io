@@ -1,4 +1,13 @@
 main:
+    - title: 
+    authors: <strong>Di Zhu*</strong>, Jianxi Chen, Hyojoon Kim* (*Corresponding authors)
+    conference_short: CoNEXT 2026
+    conference:  International Conference on emerging Networking EXperiments and Technologies <strong>(CoNEXT)</strong>, 2026.
+#     pdf: https://arxiv.org/pdf/2306.00988.pdf
+#     code: https://github.com/MrGiovanni/ContinualLearning
+#     bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Shapeshifter.jpg
+    notes: Oral Presentation
 
   - title: Automating Distributed In-network Classification with Runtime Programmability
     authors: <strong>Di Zhu*</strong>, Hyojoon Kim* (*Corresponding authors)
