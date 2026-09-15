@@ -17,6 +17,7 @@
 <h4 style="margin:0 10px 0;">Artifact Evaluations</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://conferences.sigcomm.org/sigcomm/2026/"><autocolor>SIGCOMM 2026</autocolor></a></li>
   <li><a href="https://conferences2.sigcomm.org/co-next/2026/#!/home"><autocolor>CoNEXT 2026</autocolor></a></li>
   <li><a href="https://conferences.sigcomm.org/sigcomm/2025/"><autocolor>SIGCOMM 2025</autocolor></a></li>
 </ul>
